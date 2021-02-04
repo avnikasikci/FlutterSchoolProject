@@ -1,0 +1,5 @@
+{
+    "emulator.emulatorPathWindows": "C:\\Users\\Avni\\AppData\\Local\\Android\\Sdk\\emulator\\",
+    "emulator.androidColdBoot": true,
+    "emulator.emulatorPath": "C:\\Users\\Avni\\AppData\\Local\\Android\\Sdk\\tools"
+}
